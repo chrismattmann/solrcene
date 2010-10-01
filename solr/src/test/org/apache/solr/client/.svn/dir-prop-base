@@ -1,7 +1,0 @@
-K 13
-svn:mergeinfo
-V 280
-/lucene/dev/branches/branch_3x/solr/src/test/org/apache/solr/client:949730,961612,979161,980654,982195,987811,988512
-/lucene/dev/branches/preflexfixes/solr/src/test/org/apache/solr/client:967125-979432
-/lucene/solr/trunk/src/test/org/apache/solr/client:922950-923910,923912-925091
-END
