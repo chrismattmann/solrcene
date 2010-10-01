@@ -1,0 +1,60 @@
+This is Chris Mattmann's port of the now combined Apahce Solr and Apache Lucene 
+modules. I call it "Solrcene". My port is specifically focused on spatial search 
+and supporting it with Solr. 
+
+Basically I've taken the following uncommitted patches from 
+Apache JIRA:
+
+SOLR-2073 Geonames.org UpdateProcessor for Spatial
+SOLR-2074 GeoRSS ResponseWriter
+SOLR-2075 SpatialQParserPlugin and HostIP adaptor
+SOLR-2076 Spatial example schema updates
+SOLR-2077 Spatial example solconfig updates
+SOLR-2079 Expose HttpServletRequest object from SolrQueryRequest object
+SOLR-2081 BaseResponseWriter isStreamingDocs causes SingleResponseWriter.end
+to be called 2x
+SOLR-2082 Geopost.jar for loading geonames data
+
+These contributions were the results of the final project of one my students
+in CSCI 572: Search Engines and Information Retrieval [1] at USC this past
+Summer (2010), William Quach.. William and I built off of the existing Spatial 
+code in Solr to provide some more robustness, and out of the box ease-of-use for 
+Spatial. Basically what we did at a high level:
+
+* allow easy loading of Geonames.org data using an UpdateRequestProcessor.
+You can simply use the Geopost.jar tool we provided to load up exports from
+Geonames.org, which contains city, state, and locale information as well as
+coordinates (lat, lon)
+
+* load up geo-tagged data (lat, lon). This was already provided, but we
+included some default schema fields to automatically suck these up on
+ingestion. For our examples, we grabbed a regular RSS news feed, ran it
+through the geonames.org GeoRSS converter, and transformed it to a Solr
+input XML file.
+
+* Once Geonames.org data has been loaded, and you've loaded up a couple of
+docs that have been geotagged (with lat, lon), you can use our extended
+spatial Qparser, to issue queries like:
+
+   {!spatial ct=[city] s=[state] c=[country] d=[search radius]}search text
+   e.g. {!spatial ct=Orlando s=FL c=US d=400}NASA
+
+(which in our example looked up articles about NASA and JPL stories within
+400 km (or miles) of Orlando, FL in the US).
+
+* allowed for Host IP->lat, lon detection and a pluggable framework to
+incorporate services like hostip to provide this functionality. That way, if
+a user doesn't include city, state, etc., in their spatial query, they still
+get articles "close" to them when using the spatial filter based on host IP
+detection. Though this isn't perfect, and largely dependent on the
+architectural topology, it's a really good start.
+
+Those are the high level features. We had to fix a bug along the way, and
+additionally allow for access to some of the objects that Solr tries to
+insulate you from (of course, with good reason), but it's still a fairly
+robust spatial solution, and we are incorporating it into several of our
+projects here at JPL.
+
+We hope it helps out the community and that folks find it useful.
+
+[1] http://sunset.usc.edu/classes/cs572_2010/
