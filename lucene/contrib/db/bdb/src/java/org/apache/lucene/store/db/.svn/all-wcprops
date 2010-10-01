@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/933879/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db
+END
+DbDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/933879/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/DbDirectory.java
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/Block.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/package.html
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/File.java
+END
+DbLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/DbLock.java
+END
+DbIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/DbIndexInput.java
+END
+DbIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb/src/java/org/apache/lucene/store/db/DbIndexOutput.java
+END

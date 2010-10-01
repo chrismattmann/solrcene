@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/package.html
+END
+NumericTokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/952616/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/NumericTokenStream.java
+END
+CharReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/CharReader.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/Token.java
+END
+TokenStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/TokenStream.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/988517/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/Tokenizer.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/932864/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/Analyzer.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/CharStream.java
+END
+CachingTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/CachingTokenFilter.java
+END
+CharTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/949525/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/CharTokenizer.java
+END
+TokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/TokenFilter.java
+END

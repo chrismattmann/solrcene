@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/smartcn/src/resources/org/apache/lucene/analysis/cn/smart/hhmm
+END
+bigramdict.mem
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/smartcn/src/resources/org/apache/lucene/analysis/cn/smart/hhmm/bigramdict.mem
+END
+coredict.mem
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/smartcn/src/resources/org/apache/lucene/analysis/cn/smart/hhmm/coredict.mem
+END

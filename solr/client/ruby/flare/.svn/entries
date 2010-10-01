@@ -1,0 +1,126 @@
+9
+
+dir
+992502
+https://svn.apache.org/repos/asf/lucene/dev/trunk/solr/client/ruby/flare
+https://svn.apache.org/repos/asf
+
+
+
+2010-04-02T04:36:13.597054Z
+930161
+rmuir
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+README
+file
+
+
+
+
+2010-03-26T02:59:24.000000Z
+162099ea8d1fb70e2a0bd0f8998731c1
+2009-07-27T21:13:08.614040Z
+798281
+ehatcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+985
+
+Rakefile
+file
+
+
+
+
+2010-03-26T02:59:22.000000Z
+f43964b36955948a504f0f374c73cd53
+2009-07-27T21:13:08.614040Z
+798281
+ehatcher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+904
+
+app
+dir
+
+components
+dir
+
+config
+dir
+
+db
+dir
+
+lib
+dir
+
+log
+dir
+
+public
+dir
+
+script
+dir
+
+test
+dir
+
+vendor
+dir
+

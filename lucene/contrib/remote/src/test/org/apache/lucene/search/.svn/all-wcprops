@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search
+END
+RemoteCachingWrapperFilterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search/RemoteCachingWrapperFilterHelper.java
+END
+TestRemoteSearchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search/TestRemoteSearchable.java
+END
+TestRemoteSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search/TestRemoteSort.java
+END
+TestRemoteCachingWrapperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search/TestRemoteCachingWrapperFilter.java
+END
+RemoteTestCaseJ4.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/932795/lucene/dev/trunk/lucene/contrib/remote/src/test/org/apache/lucene/search/RemoteTestCaseJ4.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/tst
+END
+TSTLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/tst/TSTLookup.java
+END
+TSTAutocomplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/tst/TSTAutocomplete.java
+END
+TernaryTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/tst/TernaryTreeNode.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/messages
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/messages/package.html
+END
+QueryParserMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/messages/QueryParserMessages.java
+END

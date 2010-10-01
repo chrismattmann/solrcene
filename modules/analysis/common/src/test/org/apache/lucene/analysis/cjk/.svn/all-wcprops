@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/cjk
+END
+TestCJKTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/cjk/TestCJKTokenizer.java
+END

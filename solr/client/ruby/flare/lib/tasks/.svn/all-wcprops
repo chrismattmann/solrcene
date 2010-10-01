@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/lib/tasks
+END
+clear_database_prerequisites.rake
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/lib/tasks/clear_database_prerequisites.rake
+END
+routes.rake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/lib/tasks/routes.rake
+END

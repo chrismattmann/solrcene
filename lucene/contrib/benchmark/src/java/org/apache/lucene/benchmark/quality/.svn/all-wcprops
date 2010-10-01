@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/955257/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality
+END
+QualityStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityStats.java
+END
+QualityBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityBenchmark.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/package.html
+END
+QualityQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityQuery.java
+END
+QualityQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/QualityQueryParser.java
+END
+Judge.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/quality/Judge.java
+END

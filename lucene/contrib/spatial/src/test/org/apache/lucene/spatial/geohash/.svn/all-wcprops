@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/lucene/contrib/spatial/src/test/org/apache/lucene/spatial/geohash
+END
+TestGeoHashUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/lucene/contrib/spatial/src/test/org/apache/lucene/spatial/geohash/TestGeoHashUtils.java
+END

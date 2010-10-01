@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/991310/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function
+END
+FieldScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/FieldScoreQuery.java
+END
+ByteFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/ByteFieldSource.java
+END
+ValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/ValueSource.java
+END
+CustomScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/991310/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/CustomScoreQuery.java
+END
+IntFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/IntFieldSource.java
+END
+FieldCacheSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/FieldCacheSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/package.html
+END
+ValueSourceQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/991310/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/ValueSourceQuery.java
+END
+DocValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/DocValues.java
+END
+ShortFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/ShortFieldSource.java
+END
+FloatFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/FloatFieldSource.java
+END
+ReverseOrdFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/ReverseOrdFieldSource.java
+END
+OrdFieldSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/OrdFieldSource.java
+END
+MultiValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/MultiValueSource.java
+END
+CustomScoreProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/search/function/CustomScoreProvider.java
+END

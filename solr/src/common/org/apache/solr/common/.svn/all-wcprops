@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/990577/lucene/dev/trunk/solr/src/common/org/apache/solr/common
+END
+SolrDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/common/org/apache/solr/common/SolrDocument.java
+END
+SolrException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926654/lucene/dev/trunk/solr/src/common/org/apache/solr/common/SolrException.java
+END
+SolrDocumentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/common/org/apache/solr/common/SolrDocumentList.java
+END
+SolrInputDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/common/org/apache/solr/common/SolrInputDocument.java
+END
+SolrInputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/common/org/apache/solr/common/SolrInputField.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/common/org/apache/solr/common/ResourceLoader.java
+END

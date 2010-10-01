@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr
+END
+FrenchAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchAnalyzer.java
+END
+ElisionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/ElisionFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/package.html
+END
+FrenchLightStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchLightStemFilter.java
+END
+FrenchStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchStemFilter.java
+END
+FrenchMinimalStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchMinimalStemmer.java
+END
+FrenchMinimalStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchMinimalStemFilter.java
+END
+FrenchStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchStemmer.java
+END
+FrenchLightStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fr/FrenchLightStemmer.java
+END

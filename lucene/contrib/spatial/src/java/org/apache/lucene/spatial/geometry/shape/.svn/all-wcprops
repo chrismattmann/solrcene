@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/934251/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Rectangle.java
+END
+LineSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LineSegment.java
+END
+IntersectCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/IntersectCase.java
+END
+Ellipse.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Ellipse.java
+END
+Vector2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Vector2D.java
+END
+Geometry2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Geometry2D.java
+END
+LLRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/934251/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/LLRect.java
+END
+Point2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/Point2D.java
+END
+DistanceApproximation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/geometry/shape/DistanceApproximation.java
+END

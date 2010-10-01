@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj
+END
+SolrJettyTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/SolrJettyTestBase.java
+END
+SolrExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/SolrExceptionTest.java
+END
+SolrExampleTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926793/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/SolrExampleTestBase.java
+END
+StartSolrJetty.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/StartSolrJetty.java
+END
+SolrExampleTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/964753/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/SolrExampleTests.java
+END
+SolrQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/SolrQueryTest.java
+END
+LargeVolumeTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/927837/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/LargeVolumeTestBase.java
+END
+MultiCoreExampleTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/926875/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/MultiCoreExampleTestBase.java
+END
+TestLBHttpSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/TestLBHttpSolrServer.java
+END
+MergeIndexesExampleTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/MergeIndexesExampleTestBase.java
+END
+TestBatchUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/927655/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/TestBatchUpdate.java
+END

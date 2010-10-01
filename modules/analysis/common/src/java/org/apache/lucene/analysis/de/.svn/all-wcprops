@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/package.html
+END
+GermanAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanAnalyzer.java
+END
+GermanMinimalStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanMinimalStemFilter.java
+END
+GermanStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanStemmer.java
+END
+GermanStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanStemFilter.java
+END
+GermanMinimalStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanMinimalStemmer.java
+END
+GermanLightStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanLightStemFilter.java
+END
+GermanLightStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/de/GermanLightStemmer.java
+END

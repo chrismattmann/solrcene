@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru
+END
+TestRussianLetterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/TestRussianLetterTokenizer.java
+END
+rulighttestdata.zip
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/rulighttestdata.zip
+END
+resUTF8.htm
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/resUTF8.htm
+END
+testUTF8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/testUTF8.txt
+END
+TestRussianStem.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/TestRussianStem.java
+END
+TestRussianAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/TestRussianAnalyzer.java
+END
+TestRussianLightStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/TestRussianLightStemFilter.java
+END
+wordsUTF8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/wordsUTF8.txt
+END
+stemsUTF8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/ru/stemsUTF8.txt
+END

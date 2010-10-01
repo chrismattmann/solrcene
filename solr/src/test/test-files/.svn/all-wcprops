@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/990451/lucene/dev/trunk/solr/src/test/test-files
+END
+books.csv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/books.csv
+END
+mailing_lists.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/mailing_lists.pdf
+END
+sampleDateFacetResponse.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/sampleDateFacetResponse.xml
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/spellings.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/README
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/site/src/documentation/skins/common/xslt/fo
+END
+pdfoutline.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/site/src/documentation/skins/common/xslt/fo/pdfoutline.xsl
+END
+footerinfo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/site/src/documentation/skins/common/xslt/fo/footerinfo.xsl
+END
+document-to-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/site/src/documentation/skins/common/xslt/fo/document-to-fo.xsl
+END

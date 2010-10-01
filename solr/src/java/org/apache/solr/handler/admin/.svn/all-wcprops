@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/960484/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin
+END
+PropertiesRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/PropertiesRequestHandler.java
+END
+LukeRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/960484/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/LukeRequestHandler.java
+END
+SystemInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/956112/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/SystemInfoHandler.java
+END
+SolrInfoMBeanHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/953886/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/SolrInfoMBeanHandler.java
+END
+ThreadDumpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/ThreadDumpHandler.java
+END
+CoreAdminHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/CoreAdminHandler.java
+END
+PluginInfoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/PluginInfoHandler.java
+END
+AdminHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/953886/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/AdminHandlers.java
+END
+ShowFileRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/945245/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/admin/ShowFileRequestHandler.java
+END

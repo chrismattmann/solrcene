@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/942753/lucene/dev/trunk/solr/contrib/extraction/lib
+END
+geronimo-stax-api_1.0_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/geronimo-stax-api_1.0_spec-1.0.1.jar
+END
+jempbox-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/930275/lucene/dev/trunk/solr/contrib/extraction/lib/jempbox-1.1.0.jar
+END
+xmlbeans-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/xmlbeans-2.3.0.jar
+END
+poi-3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/poi-3.6.jar
+END
+tagsoup-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/tagsoup-1.2.jar
+END
+bcprov-jdk15-1.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/930275/lucene/dev/trunk/solr/contrib/extraction/lib/bcprov-jdk15-1.45.jar
+END
+icu4j-4_2_1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/icu4j-4_2_1.jar
+END
+xercesImpl-2.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/xercesImpl-2.8.1.jar
+END
+poi-ooxml-3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/poi-ooxml-3.6.jar
+END
+pdfbox-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/930275/lucene/dev/trunk/solr/contrib/extraction/lib/pdfbox-1.1.0.jar
+END
+tika-core-0.8-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/942753/lucene/dev/trunk/solr/contrib/extraction/lib/tika-core-0.8-SNAPSHOT.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/asm-3.1.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/commons-logging-1.1.1.jar
+END
+fontbox-1.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/930275/lucene/dev/trunk/solr/contrib/extraction/lib/fontbox-1.1.0.jar
+END
+poi-ooxml-schemas-3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/poi-ooxml-schemas-3.6.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/dom4j-1.6.1.jar
+END
+xml-apis-1.0.b2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/xml-apis-1.0.b2.jar
+END
+poi-scratchpad-3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/poi-scratchpad-3.6.jar
+END
+bcmail-jdk15-1.45.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/930275/lucene/dev/trunk/solr/contrib/extraction/lib/bcmail-jdk15-1.45.jar
+END
+commons-compress-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/commons-compress-1.0.jar
+END
+metadata-extractor-2.4.0-beta-1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/metadata-extractor-2.4.0-beta-1.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/contrib/extraction/lib/log4j-1.2.14.jar
+END
+tika-parsers-0.8-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/942753/lucene/dev/trunk/solr/contrib/extraction/lib/tika-parsers-0.8-SNAPSHOT.jar
+END

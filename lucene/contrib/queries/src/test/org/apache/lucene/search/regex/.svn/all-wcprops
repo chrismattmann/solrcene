@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/regex
+END
+TestJakartaRegexpCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/987129/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/regex/TestJakartaRegexpCapabilities.java
+END
+TestSpanRegexQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/regex/TestSpanRegexQuery.java
+END
+TestRegexQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/regex/TestRegexQuery.java
+END

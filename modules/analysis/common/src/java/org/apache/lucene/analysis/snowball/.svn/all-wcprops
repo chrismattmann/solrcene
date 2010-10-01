@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/955203/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/snowball
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/snowball/package.html
+END
+SnowballFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/snowball/SnowballFilter.java
+END
+SnowballAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/955203/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/snowball/SnowballAnalyzer.java
+END

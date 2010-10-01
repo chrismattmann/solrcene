@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/987690/lucene/dev/trunk/solr/src/java/org/apache/solr/response
+END
+PHPSerializedResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/940525/lucene/dev/trunk/solr/src/java/org/apache/solr/response/PHPSerializedResponseWriter.java
+END
+PythonResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/PythonResponseWriter.java
+END
+RubyResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/RubyResponseWriter.java
+END
+PHPResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/PHPResponseWriter.java
+END
+GenericBinaryResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/java/org/apache/solr/response/GenericBinaryResponseWriter.java
+END
+SolrParamResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/955796/lucene/dev/trunk/solr/src/java/org/apache/solr/response/SolrParamResourceLoader.java
+END
+XMLResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/XMLResponseWriter.java
+END
+XMLWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/950207/lucene/dev/trunk/solr/src/java/org/apache/solr/response/XMLWriter.java
+END
+SolrQueryResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/SolrQueryResponse.java
+END
+PageTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/955796/lucene/dev/trunk/solr/src/java/org/apache/solr/response/PageTool.java
+END
+BaseResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/950830/lucene/dev/trunk/solr/src/java/org/apache/solr/response/BaseResponseWriter.java
+END
+TextResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/950723/lucene/dev/trunk/solr/src/java/org/apache/solr/response/TextResponseWriter.java
+END
+SolrVelocityResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/955796/lucene/dev/trunk/solr/src/java/org/apache/solr/response/SolrVelocityResourceLoader.java
+END
+RawResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/RawResponseWriter.java
+END
+QueryResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/QueryResponseWriter.java
+END
+JSONResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/987690/lucene/dev/trunk/solr/src/java/org/apache/solr/response/JSONResponseWriter.java
+END
+BinaryQueryResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/BinaryQueryResponseWriter.java
+END
+CSVResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/979807/lucene/dev/trunk/solr/src/java/org/apache/solr/response/CSVResponseWriter.java
+END
+GenericTextResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/java/org/apache/solr/response/GenericTextResponseWriter.java
+END
+XSLTResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/XSLTResponseWriter.java
+END
+BinaryResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/response/BinaryResponseWriter.java
+END
+VelocityResponseWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/955796/lucene/dev/trunk/solr/src/java/org/apache/solr/response/VelocityResponseWriter.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response
+END
+QueryResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/QueryResponseTest.java
+END
+DocumentAnalysisResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/DocumentAnalysisResponseTest.java
+END
+TermsResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/927657/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/TermsResponseTest.java
+END
+FieldAnalysisResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/FieldAnalysisResponseTest.java
+END
+AnlysisResponseBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/AnlysisResponseBaseTest.java
+END
+TestSpellCheckResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/927660/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/response/TestSpellCheckResponse.java
+END

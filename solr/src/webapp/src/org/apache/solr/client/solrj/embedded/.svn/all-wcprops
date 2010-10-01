@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/988517/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/client/solrj/embedded
+END
+JettySolrRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/981265/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/client/solrj/embedded/JettySolrRunner.java
+END
+EmbeddedSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/client/solrj/embedded/EmbeddedSolrServer.java
+END

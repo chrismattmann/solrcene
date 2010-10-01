@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/984202/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard
+END
+SimpleStandardTermsIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/983151/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/SimpleStandardTermsIndexWriter.java
+END
+StandardTermsIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardTermsIndexReader.java
+END
+DeltaBytesWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DeltaBytesWriter.java
+END
+TermState.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/TermState.java
+END
+StandardTermsDictReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/984202/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardTermsDictReader.java
+END
+StandardPostingsWriterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/948861/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsWriterImpl.java
+END
+StandardPostingsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsWriter.java
+END
+DefaultSkipListReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DefaultSkipListReader.java
+END
+SimpleStandardTermsIndexReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/984202/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/SimpleStandardTermsIndexReader.java
+END
+StandardTermsIndexWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardTermsIndexWriter.java
+END
+StandardCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/957545/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardCodec.java
+END
+DeltaBytesReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DeltaBytesReader.java
+END
+StandardTermsDictWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/962694/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardTermsDictWriter.java
+END
+DefaultSkipListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/DefaultSkipListWriter.java
+END
+StandardPostingsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsReader.java
+END
+StandardPostingsReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/965868/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/standard/StandardPostingsReaderImpl.java
+END

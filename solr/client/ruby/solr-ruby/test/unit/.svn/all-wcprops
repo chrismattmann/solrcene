@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit
+END
+data_mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/data_mapper_test.rb
+END
+commit_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/commit_test.rb
+END
+hpricot_mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/hpricot_mapper_test.rb
+END
+delimited_file_source_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/delimited_file_source_test.rb
+END
+add_document_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/add_document_test.rb
+END
+suite.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/suite.rb
+END
+field_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/field_test.rb
+END
+document_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/document_test.rb
+END
+select_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/select_test.rb
+END
+spellchecker_request_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/spellchecker_request_test.rb
+END
+connection_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/connection_test.rb
+END
+indexer_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/indexer_test.rb
+END
+modify_document_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/modify_document_test.rb
+END
+spellcheck_response_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/spellcheck_response_test.rb
+END
+response_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/response_test.rb
+END
+util_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/util_test.rb
+END
+standard_response_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/standard_response_test.rb
+END
+xpath_test_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/xpath_test_file.xml
+END
+xpath_mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/xpath_mapper_test.rb
+END
+changes_yaml_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/changes_yaml_test.rb
+END
+tab_delimited.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/tab_delimited.txt
+END
+dismax_request_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/dismax_request_test.rb
+END
+array_mapper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/array_mapper_test.rb
+END
+solr_mock_base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/solr_mock_base.rb
+END
+delete_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/delete_test.rb
+END
+standard_request_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/standard_request_test.rb
+END
+request_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/request_test.rb
+END
+hpricot_test_file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/hpricot_test_file.xml
+END
+ping_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/test/unit/ping_test.rb
+END

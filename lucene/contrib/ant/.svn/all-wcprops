@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/ant
+END
+pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/ant/pom.xml.template
+END
+example.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/ant/example.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/ant/build.xml
+END

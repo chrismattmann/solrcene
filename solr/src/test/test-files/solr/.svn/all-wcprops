@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/990451/lucene/dev/trunk/solr/src/test/test-files/solr
+END
+crazy-path-to-schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/945905/lucene/dev/trunk/solr/src/test/test-files/solr/crazy-path-to-schema.xml
+END
+crazy-path-to-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/test/test-files/solr/crazy-path-to-config.xml
+END

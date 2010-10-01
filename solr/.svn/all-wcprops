@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/repos/asf/!svn/ver/992469/lucene/dev/trunk/solr
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/945897/lucene/dev/trunk/solr/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/LICENSE.txt
+END
+testlogging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/testlogging.properties
+END
+KEYS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/KEYS
+END
+common-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/989321/lucene/dev/trunk/solr/common-build.xml
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/992382/lucene/dev/trunk/solr/CHANGES.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/build.xml
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/NOTICE.txt
+END

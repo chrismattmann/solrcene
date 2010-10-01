@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/script/performance
+END
+profiler
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/script/performance/profiler
+END
+benchmarker
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/script/performance/benchmarker
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/asf/!svn/ver/962747/lucene/dev/trunk/solr/site/skin
+END
+screen.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/935553/lucene/dev/trunk/solr/site/skin/screen.css
+END
+getMenu.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/getMenu.js
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/935553/lucene/dev/trunk/solr/site/skin/print.css
+END
+basic.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/935553/lucene/dev/trunk/solr/site/skin/basic.css
+END
+skinconf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/skinconf.xsl
+END
+breadcrumbs.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/breadcrumbs.js
+END
+fontsize.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/fontsize.js
+END
+breadcrumbs-optimized.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/breadcrumbs-optimized.js
+END
+CommonMessages_de.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/CommonMessages_de.xml
+END
+profile.css.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/profile.css.xslt
+END
+note.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/note.txt
+END
+prototype.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/prototype.js
+END
+CommonMessages_en_US.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/CommonMessages_en_US.xml
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/menu.js
+END
+getBlank.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/getBlank.js
+END
+CommonMessages_fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/CommonMessages_fr.xml
+END
+profile.css
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/935553/lucene/dev/trunk/solr/site/skin/profile.css
+END
+forrest.css.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/forrest.css.xslt
+END
+CommonMessages_es.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/site/skin/CommonMessages_es.xml
+END

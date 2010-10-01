@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard
+END
+MultiFieldQueryParserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/MultiFieldQueryParserWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/package.html
+END
+QueryParserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/965585/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserWrapper.java
+END
+StandardQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/StandardQueryParser.java
+END
+QueryParserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/QueryParserUtil.java
+END

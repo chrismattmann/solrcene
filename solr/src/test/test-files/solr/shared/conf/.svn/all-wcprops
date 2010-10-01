@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/solr/shared/conf
+END
+stopwords-en.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/solr/shared/conf/stopwords-en.txt
+END
+stopwords-fr.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/solr/shared/conf/stopwords-fr.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/solr/shared/conf/schema.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/test-files/solr/shared/conf/solrconfig.xml
+END

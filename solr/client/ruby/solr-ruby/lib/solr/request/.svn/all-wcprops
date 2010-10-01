@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request
+END
+optimize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/optimize.rb
+END
+standard.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/standard.rb
+END
+select.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/select.rb
+END
+delete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/delete.rb
+END
+index_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/index_info.rb
+END
+update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/update.rb
+END
+add_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/add_document.rb
+END
+commit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/commit.rb
+END
+dismax.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/dismax.rb
+END
+ping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/ping.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/base.rb
+END
+spellcheck.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/spellcheck.rb
+END
+modify_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/request/modify_document.rb
+END

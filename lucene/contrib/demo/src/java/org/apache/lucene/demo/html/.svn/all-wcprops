@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html
+END
+HTMLParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/HTMLParserTokenManager.java
+END
+HTMLParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/HTMLParser.jj
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/ParseException.java
+END
+HTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/HTMLParser.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/TokenMgrError.java
+END
+ParserThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/ParserThread.java
+END
+Tags.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/Tags.java
+END
+SimpleCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/SimpleCharStream.java
+END
+HTMLParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/HTMLParserConstants.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/Test.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/html/Entities.java
+END

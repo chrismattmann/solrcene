@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask
+END
+TestPerfTasksParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/TestPerfTasksParse.java
+END
+TestPerfTasksLogic.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/957486/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/TestPerfTasksLogic.java
+END
+reuters.first20.lines.txt
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/935014/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/reuters.first20.lines.txt
+END

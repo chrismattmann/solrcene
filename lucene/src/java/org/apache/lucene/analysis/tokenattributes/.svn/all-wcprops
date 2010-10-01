@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes
+END
+PayloadAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttributeImpl.java
+END
+PayloadAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/PayloadAttribute.java
+END
+TermToBytesRefAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/940511/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/TermToBytesRefAttribute.java
+END
+OffsetAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttribute.java
+END
+OffsetAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/OffsetAttributeImpl.java
+END
+TypeAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/TypeAttribute.java
+END
+TypeAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/TypeAttributeImpl.java
+END
+CharTermAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/952616/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/CharTermAttributeImpl.java
+END
+CharTermAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/935521/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/CharTermAttribute.java
+END
+PositionIncrementAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttributeImpl.java
+END
+PositionIncrementAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/PositionIncrementAttribute.java
+END
+FlagsAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttribute.java
+END
+FlagsAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/FlagsAttributeImpl.java
+END
+KeywordAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/KeywordAttribute.java
+END
+KeywordAttributeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/java/org/apache/lucene/analysis/tokenattributes/KeywordAttributeImpl.java
+END

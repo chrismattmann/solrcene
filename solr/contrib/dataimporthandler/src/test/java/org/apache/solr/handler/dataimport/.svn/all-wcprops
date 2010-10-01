@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport
+END
+TestEntityProcessorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestEntityProcessorBase.java
+END
+TestSqlEntityProcessorDelta2.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestSqlEntityProcessorDelta2.java
+END
+TestTemplateTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestTemplateTransformer.java
+END
+TestContentStreamDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestContentStreamDataSource.java
+END
+TestClobTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestClobTransformer.java
+END
+TestEvaluatorBag.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestEvaluatorBag.java
+END
+TestSqlEntityProcessorDelta.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestSqlEntityProcessorDelta.java
+END
+TestXPathEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestXPathEntityProcessor.java
+END
+TestDateFormatTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestDateFormatTransformer.java
+END
+TestScriptTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestScriptTransformer.java
+END
+TestDocBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestDocBuilder.java
+END
+TestCachedSqlEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestCachedSqlEntityProcessor.java
+END
+TestVariableResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestVariableResolver.java
+END
+TestSqlEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestSqlEntityProcessor.java
+END
+TestFieldReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestFieldReader.java
+END
+TestPlainTextEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestPlainTextEntityProcessor.java
+END
+TestLineEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestLineEntityProcessor.java
+END
+TestNumberFormatTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestNumberFormatTransformer.java
+END
+TestRegexTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestRegexTransformer.java
+END
+TestFileListEntityProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestFileListEntityProcessor.java
+END
+TestURLDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestURLDataSource.java
+END
+TestXPathRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestXPathRecordReader.java
+END
+TestSqlEntityProcessor2.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestSqlEntityProcessor2.java
+END
+TestDataConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestDataConfig.java
+END
+TestTemplateString.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestTemplateString.java
+END
+TestDocBuilder2.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestDocBuilder2.java
+END
+TestThreaded.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestThreaded.java
+END
+TestErrorHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestErrorHandling.java
+END
+AbstractDataImportHandlerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/AbstractDataImportHandlerTestCase.java
+END
+MockInitialContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/MockInitialContextFactory.java
+END
+TestJdbcDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/963873/lucene/dev/trunk/solr/contrib/dataimporthandler/src/test/java/org/apache/solr/handler/dataimport/TestJdbcDataSource.java
+END

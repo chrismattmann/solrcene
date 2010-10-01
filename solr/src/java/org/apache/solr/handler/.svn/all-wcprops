@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/handler
+END
+DumpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/DumpRequestHandler.java
+END
+PingRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/PingRequestHandler.java
+END
+ContentStreamLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/ContentStreamLoader.java
+END
+RequestHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/RequestHandlerBase.java
+END
+JsonUpdateRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/944516/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/JsonUpdateRequestHandler.java
+END
+XMLLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/XMLLoader.java
+END
+SpellCheckerRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/SpellCheckerRequestHandler.java
+END
+AnalysisRequestHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/AnalysisRequestHandlerBase.java
+END
+BinaryUpdateRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/BinaryUpdateRequestHandler.java
+END
+SnapShooter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/964312/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/SnapShooter.java
+END
+ContentStreamHandlerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/ContentStreamHandlerBase.java
+END
+CSVRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/979807/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/CSVRequestHandler.java
+END
+MoreLikeThisHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/990577/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/MoreLikeThisHandler.java
+END
+ReplicationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/985672/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/ReplicationHandler.java
+END
+SnapPuller.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/945343/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/SnapPuller.java
+END
+XmlUpdateRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/XmlUpdateRequestHandler.java
+END
+JsonLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/944649/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/JsonLoader.java
+END
+StandardRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/StandardRequestHandler.java
+END
+AnalysisRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/932862/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/AnalysisRequestHandler.java
+END
+RequestHandlerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/RequestHandlerUtils.java
+END
+DocumentAnalysisRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/DocumentAnalysisRequestHandler.java
+END
+DisMaxRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/DisMaxRequestHandler.java
+END
+FieldAnalysisRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/FieldAnalysisRequestHandler.java
+END

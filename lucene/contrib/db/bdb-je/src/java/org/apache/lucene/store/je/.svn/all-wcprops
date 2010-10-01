@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/933879/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/Block.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/package.html
+END
+File.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/File.java
+END
+JEIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/JEIndexOutput.java
+END
+JELock.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/JELock.java
+END
+JEIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/JEIndexInput.java
+END
+JEDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/933879/lucene/dev/trunk/lucene/contrib/db/bdb-je/src/java/org/apache/lucene/store/je/JEDirectory.java
+END

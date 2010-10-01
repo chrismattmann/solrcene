@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search
+END
+BoostingQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/BoostingQueryTest.java
+END
+FuzzyLikeThisQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/FuzzyLikeThisQueryTest.java
+END
+ChainedFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/ChainedFilterTest.java
+END
+DuplicateFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/DuplicateFilterTest.java
+END
+BooleanFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/BooleanFilterTest.java
+END
+TermsFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queries/src/test/org/apache/lucene/search/TermsFilterTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/990180/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj
+END
+ResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/ResponseParser.java
+END
+SolrRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/SolrRequest.java
+END
+SolrServerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/SolrServerException.java
+END
+SolrQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/SolrQuery.java
+END
+SolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/SolrServer.java
+END
+SolrResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/solrj/org/apache/solr/client/solrj/SolrResponse.java
+END

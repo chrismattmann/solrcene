@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/active_record.rb
+END
+templates.rb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/templates.rb
+END
+dependencies.rb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/dependencies.rb
+END
+routing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/routing.rb
+END
+migrations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/migrations.rb
+END
+rails_initializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/rails_initializer.rb
+END
+rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/rails.rb
+END
+public_asset_helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions/public_asset_helpers.rb
+END

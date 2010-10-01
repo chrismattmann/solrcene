@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors
+END
+NoChildOptimizationQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/NoChildOptimizationQueryNodeProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/package.html
+END
+QueryNodeProcessorPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessorPipeline.java
+END
+QueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessor.java
+END
+QueryNodeProcessorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/QueryNodeProcessorImpl.java
+END
+RemoveDeletedQueryNodesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/processors/RemoveDeletedQueryNodesProcessor.java
+END

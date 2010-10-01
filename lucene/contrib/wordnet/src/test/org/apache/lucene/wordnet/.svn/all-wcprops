@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/wordnet/src/test/org/apache/lucene/wordnet
+END
+TestSynonymTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/wordnet/src/test/org/apache/lucene/wordnet/TestSynonymTokenFilter.java
+END
+testSynonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/wordnet/src/test/org/apache/lucene/wordnet/testSynonyms.txt
+END
+TestWordnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/943288/lucene/dev/trunk/lucene/contrib/wordnet/src/test/org/apache/lucene/wordnet/TestWordnet.java
+END

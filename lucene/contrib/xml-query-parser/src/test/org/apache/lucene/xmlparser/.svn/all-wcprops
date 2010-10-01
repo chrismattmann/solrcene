@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser
+END
+NestedBooleanQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/NestedBooleanQuery.xml
+END
+ConstantScoreQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/ConstantScoreQuery.xml
+END
+CachedFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/CachedFilter.xml
+END
+TermQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/TermQuery.xml
+END
+albumFilteredQuery.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/albumFilteredQuery.xsl
+END
+reuters21578.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/reuters21578.txt
+END
+BoostingTermQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/BoostingTermQuery.xml
+END
+SpanQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/SpanQuery.xml
+END
+UserInputQueryCustomField.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/UserInputQueryCustomField.xml
+END
+BooleanFilter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/BooleanFilter.xml
+END
+BooleanQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/BooleanQuery.xml
+END
+NumericRangeFilterQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/NumericRangeFilterQuery.xml
+END
+TermsQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/TermsQuery.xml
+END
+albumLuceneClassicQuery.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/albumLuceneClassicQuery.xsl
+END
+DuplicateFilterQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/DuplicateFilterQuery.xml
+END
+UserInputQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/UserInputQuery.xml
+END
+TermsFilterQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/TermsFilterQuery.xml
+END
+albumBooleanQuery.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/albumBooleanQuery.xsl
+END
+FuzzyLikeThisQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/FuzzyLikeThisQuery.xml
+END
+BoostingQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/BoostingQuery.xml
+END
+TestQueryTemplateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/TestQueryTemplateManager.java
+END
+NumericRangeQueryQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/NumericRangeQueryQuery.xml
+END
+MatchAllDocsQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/MatchAllDocsQuery.xml
+END
+RangeFilterQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/RangeFilterQuery.xml
+END
+LikeThisQuery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/LikeThisQuery.xml
+END
+TestParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/test/org/apache/lucene/xmlparser/TestParser.java
+END

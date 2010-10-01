@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 906
+/lucene/dev/branches/branch_3x/modules/analysis/common/src/test/org/apache/lucene/analysis/miscellaneous/TestISOLatin1AccentFilter.java:980654,982195,987811,988512
+/lucene/dev/branches/preflexfixes/modules/analysis/common/src/test/org/apache/lucene/analysis/miscellaneous/TestISOLatin1AccentFilter.java:967125-979432
+/lucene/java/branches/flex_1458/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java:824912-931101
+/lucene/java/branches/lucene_2_4/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java:748824
+/lucene/java/branches/lucene_2_9/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java:829134,829881,831036,896850,909334
+/lucene/java/branches/lucene_3_0/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java:880793,896906
+/lucene/java/trunk/src/test/org/apache/lucene/analysis/TestISOLatin1AccentFilter.java:924483-924731,924781,925176-925462
+K 13
+svn:eol-style
+V 6
+native
+END

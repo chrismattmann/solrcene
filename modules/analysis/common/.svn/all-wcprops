@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/990459/lucene/dev/trunk/modules/analysis/common
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/README.txt
+END
+pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/987286/lucene/dev/trunk/modules/analysis/common/pom.xml.template
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/modules/analysis/common/build.xml
+END
+SNOWBALL-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/SNOWBALL-LICENSE.txt
+END

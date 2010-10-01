@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines
+END
+deprecated_config_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/deprecated_config_support.rb
+END
+plugin_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/plugin_list.rb
+END
+plugin_migrator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/plugin_migrator.rb
+END
+plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/plugin.rb
+END
+rails_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/rails_extensions.rb
+END
+testing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/lib/engines/testing.rb
+END

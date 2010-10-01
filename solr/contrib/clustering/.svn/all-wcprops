@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/clustering
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/988477/lucene/dev/trunk/solr/contrib/clustering/README.txt
+END
+DISABLED-README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/952613/lucene/dev/trunk/solr/contrib/clustering/DISABLED-README.txt
+END
+build.xml.disabled
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/952613/lucene/dev/trunk/solr/contrib/clustering/build.xml.disabled
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/CHANGES.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/clustering/build.xml
+END
+solr-clustering-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/955464/lucene/dev/trunk/solr/contrib/clustering/solr-clustering-pom.xml.template
+END

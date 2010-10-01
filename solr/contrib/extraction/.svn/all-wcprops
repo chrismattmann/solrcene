@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/extraction
+END
+solr-cell-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/955464/lucene/dev/trunk/solr/contrib/extraction/solr-cell-pom.xml.template
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/942753/lucene/dev/trunk/solr/contrib/extraction/CHANGES.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/solr/contrib/extraction/build.xml
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/987179/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell
+END
+SuggestWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/986477/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/SuggestWord.java
+END
+SpellChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/987179/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/SpellChecker.java
+END
+PlainTextDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/PlainTextDictionary.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/package.html
+END
+JaroWinklerDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/JaroWinklerDistance.java
+END
+NGramDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/NGramDistance.java
+END
+SuggestWordScoreComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/987122/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/SuggestWordScoreComparator.java
+END
+LuceneDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/LuceneDictionary.java
+END
+LevensteinDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/LevensteinDistance.java
+END
+StringDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/StringDistance.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/Dictionary.java
+END
+SuggestWordFrequencyComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/987122/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/SuggestWordFrequencyComparator.java
+END
+SuggestWordQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/986477/lucene/dev/trunk/lucene/contrib/spellchecker/src/java/org/apache/lucene/search/spell/SuggestWordQueue.java
+END

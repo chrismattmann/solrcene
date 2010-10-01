@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/config/environments
+END
+development.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/config/environments/development.rb
+END
+production.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/config/environments/production.rb
+END
+test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/config/environments/test.rb
+END

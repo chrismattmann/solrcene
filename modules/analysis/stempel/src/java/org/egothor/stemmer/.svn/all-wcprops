@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer
+END
+DiffIt.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/DiffIt.java
+END
+MultiTrie2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/MultiTrie2.java
+END
+Gener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Gener.java
+END
+Optimizer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Optimizer2.java
+END
+Lift.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Lift.java
+END
+Trie.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Trie.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Row.java
+END
+Reduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Reduce.java
+END
+Optimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Optimizer.java
+END
+Diff.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Diff.java
+END
+Compile.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Compile.java
+END
+MultiTrie.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/MultiTrie.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/egothor/stemmer/Cell.java
+END

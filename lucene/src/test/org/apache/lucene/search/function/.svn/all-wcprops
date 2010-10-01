@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function
+END
+TestFieldScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/TestFieldScoreQuery.java
+END
+JustCompileSearchSpans.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/JustCompileSearchSpans.java
+END
+TestValueSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/TestValueSource.java
+END
+TestCustomScoreQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/TestCustomScoreQuery.java
+END
+TestDocValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/TestDocValues.java
+END
+FunctionTestSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/FunctionTestSetup.java
+END
+TestOrdValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/function/TestOrdValues.java
+END

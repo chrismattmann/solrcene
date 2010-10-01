@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/id
+END
+IndonesianAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/id/IndonesianAnalyzer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/942235/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/id/package.html
+END
+IndonesianStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/942235/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/id/IndonesianStemFilter.java
+END
+IndonesianStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/id/IndonesianStemmer.java
+END

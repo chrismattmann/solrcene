@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar
+END
+ArabicStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicStemFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/package.html
+END
+ArabicNormalizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizationFilter.java
+END
+ArabicLetterTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicLetterTokenizer.java
+END
+ArabicStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicStemmer.java
+END
+ArabicAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicAnalyzer.java
+END
+ArabicNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/ar/ArabicNormalizer.java
+END

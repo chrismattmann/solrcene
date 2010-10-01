@@ -1,0 +1,13 @@
+K 13
+svn:mergeinfo
+V 759
+/lucene/dev/branches/branch_3x/lucene/contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java:943137,949730,957490,960490,961612,979161,980654,982195,987811,988512
+/lucene/dev/branches/preflexfixes/lucene/contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java:967125-979432
+/lucene/java/branches/flex_1458/contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java:824912-931101
+/lucene/java/branches/lucene_2_9/contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java:909334,948516
+/lucene/java/trunk/contrib/instantiated/src/test/org/apache/lucene/store/instantiated/TestIndicesEquals.java:924483-924731,924781,925176-925462
+K 13
+svn:eol-style
+V 6
+native
+END

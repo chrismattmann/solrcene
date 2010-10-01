@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/jaspell
+END
+JaspellTernarySearchTrie.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/jaspell/JaspellTernarySearchTrie.java
+END
+JaspellLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/spelling/suggest/jaspell/JaspellLookup.java
+END

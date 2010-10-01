@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/apache/lucene/analysis/stempel
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/apache/lucene/analysis/stempel/package.html
+END
+StempelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/apache/lucene/analysis/stempel/StempelFilter.java
+END
+StempelStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/stempel/src/java/org/apache/lucene/analysis/stempel/StempelStemmer.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/945886/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet
+END
+LogLevelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/LogLevelSelection.java
+END
+SolrServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/SolrServletRequest.java
+END
+SolrUpdateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/SolrUpdateServlet.java
+END
+DirectSolrConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/DirectSolrConnection.java
+END
+SolrRequestParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/945245/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/SolrRequestParsers.java
+END
+SolrDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/945886/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/SolrDispatchFilter.java
+END
+SolrServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/webapp/src/org/apache/solr/servlet/SolrServlet.java
+END

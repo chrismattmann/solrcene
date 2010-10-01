@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query
+END
+ExceptionQueryTst.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/932731/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/ExceptionQueryTst.java
+END
+Test03Distance.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/Test03Distance.java
+END
+Test01Exceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/Test01Exceptions.java
+END
+BooleanQueryTst.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/932731/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/BooleanQueryTst.java
+END
+Test02Boolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/Test02Boolean.java
+END
+SingleFieldTestDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/surround/query/SingleFieldTestDb.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded
+END
+MultiCoreExampleJettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/MultiCoreExampleJettyTest.java
+END
+JettyWebappTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/JettyWebappTest.java
+END
+SolrExampleStreamingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/SolrExampleStreamingTest.java
+END
+LargeVolumeJettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/LargeVolumeJettyTest.java
+END
+LargeVolumeBinaryJettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/LargeVolumeBinaryJettyTest.java
+END
+SolrExampleJettyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/SolrExampleJettyTest.java
+END
+TestSolrProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/TestSolrProperties.java
+END
+SolrExampleEmbeddedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/SolrExampleEmbeddedTest.java
+END
+MergeIndexesEmbeddedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/MergeIndexesEmbeddedTest.java
+END
+MultiCoreEmbeddedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/MultiCoreEmbeddedTest.java
+END
+LargeVolumeEmbeddedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/client/solrj/embedded/LargeVolumeEmbeddedTest.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/966254/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser
+END
+ParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/ParserException.java
+END
+DOMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/DOMUtils.java
+END
+CoreParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/CoreParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/package.html
+END
+CorePlusExtensionsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/CorePlusExtensionsParser.java
+END
+QueryTemplateManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/QueryTemplateManager.java
+END
+FilterBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/FilterBuilderFactory.java
+END
+QueryBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/QueryBuilderFactory.java
+END
+FilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/FilterBuilder.java
+END
+QueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/QueryBuilder.java
+END

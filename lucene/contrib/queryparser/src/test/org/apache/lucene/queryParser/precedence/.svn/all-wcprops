@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/precedence
+END
+TestPrecedenceQueryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/precedence/TestPrecedenceQueryParser.java
+END

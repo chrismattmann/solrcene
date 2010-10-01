@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/981550/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/elevate.xml
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/protwords.txt
+END
+admin-extra.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/admin-extra.html
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/stopwords.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/981550/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/schema.xml
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/scripts.conf
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/synonyms.txt
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/932999/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/solrconfig.xml
+END
+db-data-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/example-DIH/solr/db/conf/db-data-config.xml
+END

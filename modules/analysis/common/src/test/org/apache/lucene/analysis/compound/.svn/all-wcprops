@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/compound
+END
+TestCompoundWordTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/compound/TestCompoundWordTokenFilter.java
+END
+hyphenation.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/compound/hyphenation.dtd
+END
+da_UTF8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/test/org/apache/lucene/analysis/compound/da_UTF8.xml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/965230/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet
+END
+NoCacheHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/927644/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet/NoCacheHeaderTest.java
+END
+SolrRequestParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/965230/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet/SolrRequestParserTest.java
+END
+DirectSolrConnectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet/DirectSolrConnectionTest.java
+END
+CacheHeaderTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/927651/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet/CacheHeaderTestBase.java
+END
+CacheHeaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/927644/lucene/dev/trunk/solr/src/test/org/apache/solr/servlet/CacheHeaderTest.java
+END

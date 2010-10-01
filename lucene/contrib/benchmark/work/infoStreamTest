@@ -1,0 +1,25 @@
+IFD [main]: setInfoStream deletionPolicy=org.apache.lucene.index.KeepOnlyLastCommitDeletionPolicy@4f2076
+IW 2 [main]: 
+dir=org.apache.lucene.store.RAMDirectory@c8673
+mergePolicy=org.apache.lucene.index.LogByteSizeMergePolicy@dc60af
+index=
+version=3.1-dev
+matchVersion=LUCENE_31
+analyzer=org.apache.lucene.analysis.standard.StandardAnalyzer
+delPolicy=org.apache.lucene.index.KeepOnlyLastCommitDeletionPolicy
+commit=null
+openMode=CREATE
+maxFieldLength=2147483647
+similarity=org.apache.lucene.search.DefaultSimilarity
+termIndexInterval=128
+mergeScheduler=org.apache.lucene.index.ConcurrentMergeScheduler
+default WRITE_LOCK_TIMEOUT=1000
+writeLockTimeout=1000
+maxBufferedDeleteTerms=-1
+ramBufferSizeMB=16.0
+maxBufferedDocs=-1
+mergedSegmentWarmer=null
+mergePolicy=org.apache.lucene.index.LogByteSizeMergePolicy@dc60af
+maxThreadStates=8
+readerPooling=false
+

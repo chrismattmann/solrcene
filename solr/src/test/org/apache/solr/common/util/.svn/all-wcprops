@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/990180/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util
+END
+TestHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/TestHash.java
+END
+TestFastInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/TestFastInputStream.java
+END
+ContentStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/ContentStreamTest.java
+END
+NamedListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/NamedListTest.java
+END
+FileUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/FileUtilsTest.java
+END
+DOMUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/DOMUtilTest.java
+END
+IteratorChainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/IteratorChainTest.java
+END
+TestXMLEscaping.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/TestXMLEscaping.java
+END
+TestJavaBinCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/990180/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/TestJavaBinCodec.java
+END
+TestNamedListCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/solr/src/test/org/apache/solr/common/util/TestNamedListCodec.java
+END

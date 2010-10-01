@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/965984/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections
+END
+SinusoidalProjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/965984/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/SinusoidalProjector.java
+END
+CartesianTierPlotter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/934251/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/CartesianTierPlotter.java
+END
+IProjector.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/spatial/src/java/org/apache/lucene/spatial/tier/projections/IProjector.java
+END

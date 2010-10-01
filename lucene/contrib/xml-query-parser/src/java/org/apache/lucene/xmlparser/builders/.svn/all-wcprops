@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/966254/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders
+END
+BoostingTermBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BoostingTermBuilder.java
+END
+SpanOrBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanOrBuilder.java
+END
+SpanQueryBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanQueryBuilderFactory.java
+END
+MatchAllDocsQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/MatchAllDocsQueryBuilder.java
+END
+FilteredQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/FilteredQueryBuilder.java
+END
+SpanNearBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanNearBuilder.java
+END
+LikeThisQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/LikeThisQueryBuilder.java
+END
+RangeFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/RangeFilterBuilder.java
+END
+SpanTermBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanTermBuilder.java
+END
+NumericRangeQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/NumericRangeQueryBuilder.java
+END
+SpanBuilderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanBuilderBase.java
+END
+ConstantScoreQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/ConstantScoreQueryBuilder.java
+END
+SpanOrTermsBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/966254/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanOrTermsBuilder.java
+END
+CachedFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/CachedFilterBuilder.java
+END
+TermQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermQueryBuilder.java
+END
+SpanQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanQueryBuilder.java
+END
+TermsFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/966254/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermsFilterBuilder.java
+END
+BooleanQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BooleanQueryBuilder.java
+END
+BooleanFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BooleanFilterBuilder.java
+END
+TermsQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/966254/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/TermsQueryBuilder.java
+END
+DuplicateFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/DuplicateFilterBuilder.java
+END
+SpanFirstBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanFirstBuilder.java
+END
+NumericRangeFilterBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/NumericRangeFilterBuilder.java
+END
+BoostingQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/BoostingQueryBuilder.java
+END
+FuzzyLikeThisQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/FuzzyLikeThisQueryBuilder.java
+END
+SpanNotBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/SpanNotBuilder.java
+END
+UserInputQueryBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/src/java/org/apache/lucene/xmlparser/builders/UserInputQueryBuilder.java
+END

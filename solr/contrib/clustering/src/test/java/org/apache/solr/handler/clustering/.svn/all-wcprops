@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/src/test/java/org/apache/solr/handler/clustering
+END
+MockDocumentClusteringEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/java/org/apache/solr/handler/clustering/MockDocumentClusteringEngine.java
+END
+AbstractClusteringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/java/org/apache/solr/handler/clustering/AbstractClusteringTest.java
+END
+ClusteringComponentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/java/org/apache/solr/handler/clustering/ClusteringComponentTest.java
+END

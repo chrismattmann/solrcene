@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/xml-query-parser
+END
+README.htm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/README.htm
+END
+pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/pom.xml.template
+END
+dtddocbuild.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/dtddocbuild.xml
+END
+LuceneContribQuery.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/xml-query-parser/LuceneContribQuery.dtd
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/927765/lucene/dev/trunk/lucene/contrib/xml-query-parser/build.xml
+END
+LuceneCoreQuery.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/928114/lucene/dev/trunk/lucene/contrib/xml-query-parser/LuceneCoreQuery.dtd
+END

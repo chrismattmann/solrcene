@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/981550/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/protwords.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/stopwords.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/981550/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/schema.xml
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/spellings.txt
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/932999/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/solrconfig.xml
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/contrib/clustering/src/test/resources/solr/conf/mapping-ISOLatin1Accent.txt
+END

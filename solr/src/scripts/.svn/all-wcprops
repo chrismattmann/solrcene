@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts
+END
+abc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/abc
+END
+backup
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/backup
+END
+snapshooter
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snapshooter
+END
+scripts-util
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/scripts-util
+END
+snapcleaner
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snapcleaner
+END
+rsyncd-start
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/rsyncd-start
+END
+abo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/abo
+END
+rsyncd-disable
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/rsyncd-disable
+END
+backupcleaner
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/backupcleaner
+END
+snappuller-enable
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snappuller-enable
+END
+snappuller-disable
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snappuller-disable
+END
+commit
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/commit
+END
+rsyncd-stop
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/rsyncd-stop
+END
+rsyncd-enable
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/rsyncd-enable
+END
+snappuller
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snappuller
+END
+optimize
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/optimize
+END
+snapinstaller
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/990160/lucene/dev/trunk/solr/src/scripts/snapinstaller
+END

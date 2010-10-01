@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/install.rb
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/CHANGELOG
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/Rakefile
+END
+about.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/about.yml
+END
+UPGRADING
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/UPGRADING
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/MIT-LICENSE
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/init.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/README
+END

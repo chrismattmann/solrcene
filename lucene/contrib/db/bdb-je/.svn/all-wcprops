@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/933879/lucene/dev/trunk/lucene/contrib/db/bdb-je
+END
+pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/pom.xml.template
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/db/bdb-je/build.xml
+END

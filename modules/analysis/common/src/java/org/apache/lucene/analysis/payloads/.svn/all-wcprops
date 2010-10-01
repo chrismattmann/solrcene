@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads
+END
+NumericPayloadTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/NumericPayloadTokenFilter.java
+END
+FloatEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/FloatEncoder.java
+END
+TypeAsPayloadTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/TypeAsPayloadTokenFilter.java
+END
+TokenOffsetPayloadTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/TokenOffsetPayloadTokenFilter.java
+END
+IdentityEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/IdentityEncoder.java
+END
+PayloadEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/PayloadEncoder.java
+END
+IntegerEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/IntegerEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/package.html
+END
+DelimitedPayloadTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/DelimitedPayloadTokenFilter.java
+END
+PayloadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/PayloadHelper.java
+END
+AbstractEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/payloads/AbstractEncoder.java
+END

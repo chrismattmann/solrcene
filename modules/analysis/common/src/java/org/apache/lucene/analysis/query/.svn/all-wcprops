@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/955257/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/query
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/query/package.html
+END
+QueryAutoStopWordAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/955257/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/query/QueryAutoStopWordAnalyzer.java
+END

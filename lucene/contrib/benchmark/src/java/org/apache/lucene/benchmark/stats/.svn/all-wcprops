@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats
+END
+MemUsage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/MemUsage.java
+END
+TestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/TestData.java
+END
+TimeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/TimeData.java
+END
+TestRunData.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/TestRunData.java
+END
+QueryData.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/src/java/org/apache/lucene/benchmark/stats/QueryData.java
+END

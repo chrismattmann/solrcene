@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/views/browse
+END
+index.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/views/browse/index.rhtml
+END
+_suggest.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/views/browse/_suggest.rhtml
+END
+facet.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/views/browse/facet.rhtml
+END

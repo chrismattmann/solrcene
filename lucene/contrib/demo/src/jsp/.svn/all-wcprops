@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/README.txt
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/footer.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/header.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/index.jsp
+END
+configuration.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/configuration.jsp
+END
+results.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/jsp/results.jsp
+END

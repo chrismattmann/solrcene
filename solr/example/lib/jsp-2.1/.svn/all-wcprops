@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/926575/lucene/dev/trunk/solr/example/lib/jsp-2.1
+END
+jsp-2.1-glassfish-9.1.1.B60.25.p2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/926575/lucene/dev/trunk/solr/example/lib/jsp-2.1/jsp-2.1-glassfish-9.1.1.B60.25.p2.jar
+END
+core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/lib/jsp-2.1/core-3.1.1.jar
+END
+jsp-2.1-jetty-6.1.22.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926575/lucene/dev/trunk/solr/example/lib/jsp-2.1/jsp-2.1-jetty-6.1.22.jar
+END
+jsp-api-2.1-glassfish-9.1.1.B60.25.p2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926575/lucene/dev/trunk/solr/example/lib/jsp-2.1/jsp-api-2.1-glassfish-9.1.1.B60.25.p2.jar
+END

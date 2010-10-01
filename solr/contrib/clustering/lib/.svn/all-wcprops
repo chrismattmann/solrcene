@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib
+END
+mahout-math-0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/mahout-math-0.3.jar
+END
+jackson-core-asl-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/jackson-core-asl-1.5.2.jar
+END
+hppc-0.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/hppc-0.3.1.jar
+END
+jackson-mapper-asl-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/jackson-mapper-asl-1.5.2.jar
+END
+mahout-collections-0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/mahout-collections-0.3.jar
+END
+carrot2-core-3.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/carrot2-core-3.4.0.jar
+END
+simple-xml-2.3.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/simple-xml-2.3.5.jar
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/commons-lang-2.4.jar
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/988129/lucene/dev/trunk/solr/contrib/clustering/lib/log4j-1.2.14.jar
+END

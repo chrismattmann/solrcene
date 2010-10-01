@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/987961/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index
+END
+MultiPassIndexSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/987961/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index/MultiPassIndexSplitter.java
+END
+BalancedSegmentMergePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index/BalancedSegmentMergePolicy.java
+END
+FieldNormModifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/931278/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index/FieldNormModifier.java
+END
+IndexSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index/IndexSplitter.java
+END
+TermVectorAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/960484/lucene/dev/trunk/lucene/contrib/misc/src/java/org/apache/lucene/index/TermVectorAccessor.java
+END

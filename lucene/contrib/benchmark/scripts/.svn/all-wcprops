@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/scripts
+END
+compare.shingle.benchmark.tables.pl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/scripts/compare.shingle.benchmark.tables.pl
+END
+compare.collation.benchmark.tables.pl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/scripts/compare.collation.benchmark.tables.pl
+END
+collation.bm2jira.pl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/scripts/collation.bm2jira.pl
+END
+shingle.bm2jira.pl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/benchmark/scripts/shingle.bm2jira.pl
+END

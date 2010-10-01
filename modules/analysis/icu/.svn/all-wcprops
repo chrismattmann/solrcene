@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/991053/lucene/dev/trunk/modules/analysis/icu
+END
+pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/987286/lucene/dev/trunk/modules/analysis/icu/pom.xml.template
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/991053/lucene/dev/trunk/modules/analysis/icu/build.xml
+END

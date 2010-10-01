@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/990939/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/payloads
+END
+TestPayloadTermQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/payloads/TestPayloadTermQuery.java
+END
+PayloadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/payloads/PayloadHelper.java
+END
+TestPayloadNearQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/990939/lucene/dev/trunk/lucene/src/test/org/apache/lucene/search/payloads/TestPayloadNearQuery.java
+END

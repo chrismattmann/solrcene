@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 110
+QueryParser.java
+TokenMgrError.java
+ParseException.java
+Token.java
+TokenManager.java
+QueryParserConstants.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/xslt
+END
+example_rss.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/xslt/example_rss.xsl
+END
+luke.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/xslt/luke.xsl
+END
+example_atom.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/xslt/example_atom.xsl
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/xslt/example.xsl
+END

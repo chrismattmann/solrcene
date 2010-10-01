@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response
+END
+optimize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/optimize.rb
+END
+standard.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/standard.rb
+END
+select.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/select.rb
+END
+delete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/delete.rb
+END
+index_info.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/index_info.rb
+END
+ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/ruby.rb
+END
+add_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/add_document.rb
+END
+xml.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/xml.rb
+END
+commit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/commit.rb
+END
+dismax.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/dismax.rb
+END
+ping.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/ping.rb
+END
+base.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/base.rb
+END
+spellcheck.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/spellcheck.rb
+END
+modify_document.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/solr-ruby/lib/solr/response/modify_document.rb
+END

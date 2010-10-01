@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component
+END
+TermVectorComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/960484/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/TermVectorComponent.java
+END
+DebugComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/DebugComponent.java
+END
+HighlightComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/HighlightComponent.java
+END
+QueryElevationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/990577/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/QueryElevationComponent.java
+END
+FacetComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/980555/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/FacetComponent.java
+END
+SearchHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/990577/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/SearchHandler.java
+END
+FieldFacetStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/FieldFacetStats.java
+END
+StatsValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/StatsValues.java
+END
+ShardResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/ShardResponse.java
+END
+StatsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/StatsComponent.java
+END
+SpellCheckComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/SpellCheckComponent.java
+END
+ResponseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/ResponseBuilder.java
+END
+ShardDoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/ShardDoc.java
+END
+TermsComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/948299/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/TermsComponent.java
+END
+SearchComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/SearchComponent.java
+END
+QueryComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/987690/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/QueryComponent.java
+END
+MoreLikeThisComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/MoreLikeThisComponent.java
+END
+ShardRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/handler/component/ShardRequest.java
+END

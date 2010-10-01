@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config
+END
+FieldConfigListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/FieldConfigListener.java
+END
+QueryConfigHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/QueryConfigHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/package.html
+END
+FieldConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/core/config/FieldConfig.java
+END

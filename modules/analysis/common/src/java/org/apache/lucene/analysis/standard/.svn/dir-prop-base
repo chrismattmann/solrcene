@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 135
+Token.java
+StandardTokenizer.java
+StandardTokenizerTokenManager.java
+TokenMgrError.java
+CharStream.java
+StandardTokenizerConstants.java
+END

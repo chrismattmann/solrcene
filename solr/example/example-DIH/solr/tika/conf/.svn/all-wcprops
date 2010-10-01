@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/932999/lucene/dev/trunk/solr/example/example-DIH/solr/tika/conf
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/example/example-DIH/solr/tika/conf/schema.xml
+END
+tika-data-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/example/example-DIH/solr/tika/conf/tika-data-config.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/932999/lucene/dev/trunk/solr/example/example-DIH/solr/tika/conf/solrconfig.xml
+END

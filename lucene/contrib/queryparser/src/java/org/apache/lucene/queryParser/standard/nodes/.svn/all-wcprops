@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes
+END
+WildcardQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/WildcardQueryNode.java
+END
+StandardBooleanQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/StandardBooleanQueryNode.java
+END
+PrefixWildcardQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/PrefixWildcardQueryNode.java
+END
+RangeQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/RangeQueryNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/package.html
+END
+MultiPhraseQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/MultiPhraseQueryNode.java
+END
+BooleanModifierNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/BooleanModifierNode.java
+END
+RegexpQueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/nodes/RegexpQueryNode.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fi
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fi/package.html
+END
+FinnishLightStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fi/FinnishLightStemFilter.java
+END
+FinnishLightStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fi/FinnishLightStemmer.java
+END
+FinnishAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/fi/FinnishAnalyzer.java
+END

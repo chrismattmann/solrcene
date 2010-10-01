@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors
+END
+AnalyzerQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/965585/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AnalyzerQueryNodeProcessor.java
+END
+BoostQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/BoostQueryNodeProcessor.java
+END
+RemoveEmptyNonLeafQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/RemoveEmptyNonLeafQueryNodeProcessor.java
+END
+MultiTermRewriteMethodProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MultiTermRewriteMethodProcessor.java
+END
+MultiFieldQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MultiFieldQueryNodeProcessor.java
+END
+StandardQueryNodeProcessorPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/StandardQueryNodeProcessorPipeline.java
+END
+GroupQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/GroupQueryNodeProcessor.java
+END
+LowercaseExpandedTermsQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/LowercaseExpandedTermsQueryNodeProcessor.java
+END
+WildcardQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/WildcardQueryNodeProcessor.java
+END
+BooleanSingleChildOptimizationQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/BooleanSingleChildOptimizationQueryNodeProcessor.java
+END
+MatchAllDocsQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/MatchAllDocsQueryNodeProcessor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/package.html
+END
+DefaultPhraseSlopQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/DefaultPhraseSlopQueryNodeProcessor.java
+END
+AllowLeadingWildcardProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/AllowLeadingWildcardProcessor.java
+END
+PhraseSlopQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/PhraseSlopQueryNodeProcessor.java
+END
+ParametricRangeQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/ParametricRangeQueryNodeProcessor.java
+END
+FuzzyQueryNodeProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/processors/FuzzyQueryNodeProcessor.java
+END

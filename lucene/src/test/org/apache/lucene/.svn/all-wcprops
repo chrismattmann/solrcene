@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/lucene/src/test/org/apache/lucene
+END
+TestMergeSchedulerExternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestMergeSchedulerExternal.java
+END
+TestSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestSearch.java
+END
+TestExternalCodecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestExternalCodecs.java
+END
+TestSearchForDuplicates.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/984968/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestSearchForDuplicates.java
+END
+TestDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestDemo.java
+END
+TestAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/932864/lucene/dev/trunk/lucene/src/test/org/apache/lucene/TestAssertions.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/983417/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/intblock
+END
+FixedIntBlockIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/983417/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/intblock/FixedIntBlockIndexInput.java
+END
+VariableIntBlockIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/983417/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/intblock/VariableIntBlockIndexOutput.java
+END
+VariableIntBlockIndexInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/983417/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/intblock/VariableIntBlockIndexInput.java
+END
+FixedIntBlockIndexOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/983417/lucene/dev/trunk/lucene/src/java/org/apache/lucene/index/codecs/intblock/FixedIntBlockIndexOutput.java
+END

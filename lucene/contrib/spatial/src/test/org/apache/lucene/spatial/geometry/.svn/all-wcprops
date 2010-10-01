@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/lucene/contrib/spatial/src/test/org/apache/lucene/spatial/geometry
+END
+TestDistanceUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/983778/lucene/dev/trunk/lucene/contrib/spatial/src/test/org/apache/lucene/spatial/geometry/TestDistanceUnits.java
+END

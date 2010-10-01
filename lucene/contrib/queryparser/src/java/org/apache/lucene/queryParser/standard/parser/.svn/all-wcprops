@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser
+END
+StandardSyntaxParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserConstants.java
+END
+StandardSyntaxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/package.html
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/ParseException.java
+END
+EscapeQuerySyntaxImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/EscapeQuerySyntaxImpl.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/Token.java
+END
+TokenMgrError.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/TokenMgrError.java
+END
+JavaCharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/JavaCharStream.java
+END
+StandardSyntaxParserTokenManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParserTokenManager.java
+END
+StandardSyntaxParser.jj
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/java/org/apache/lucene/queryParser/standard/parser/StandardSyntaxParser.jj
+END

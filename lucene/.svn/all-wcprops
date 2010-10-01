@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/lucene
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/942676/lucene/dev/trunk/lucene/LICENSE.txt
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/.cvsignore
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/992424/lucene/dev/trunk/lucene/CHANGES.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/index.html
+END
+JRE_VERSION_MIGRATION.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/JRE_VERSION_MIGRATION.txt
+END
+lucene-parent-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/933679/lucene/dev/trunk/lucene/lucene-parent-pom.xml.template
+END
+MIGRATE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/990822/lucene/dev/trunk/lucene/MIGRATE.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/949164/lucene/dev/trunk/lucene/README.txt
+END
+lucene-contrib-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/lucene-contrib-pom.xml.template
+END
+BUILD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/BUILD.txt
+END
+lucene-core-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/lucene-core-pom.xml.template
+END
+common-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/989334/lucene/dev/trunk/lucene/common-build.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/asf/!svn/ver/988527/lucene/dev/trunk/lucene/build.xml
+END
+lucene-demos-pom.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/lucene-demos-pom.xml.template
+END
+NOTICE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/asf/!svn/ver/941369/lucene/dev/trunk/lucene/NOTICE.txt
+END

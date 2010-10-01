@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html
+END
+book-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/book-to-menu.xsl
+END
+strip_namespaces.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/strip_namespaces.xsl
+END
+renderlogo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/renderlogo.xsl
+END
+dotdots.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/dotdots.xsl
+END
+site-to-xhtml.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/site-to-xhtml.xsl
+END
+tab-to-menu.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/tab-to-menu.xsl
+END
+split.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/split.xsl
+END
+document-to-html.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/document-to-html.xsl
+END
+pathutils.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/pathutils.xsl
+END
+tabutils.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/lucene/src/site/src/documentation/skins/common/xslt/html/tabutils.xsl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/946590/lucene/dev/trunk/modules/analysis/icu/src/java/org/apache/lucene/analysis/icu
+END
+ICUFoldingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/946590/lucene/dev/trunk/modules/analysis/icu/src/java/org/apache/lucene/analysis/icu/ICUFoldingFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/946590/lucene/dev/trunk/modules/analysis/icu/src/java/org/apache/lucene/analysis/icu/package.html
+END
+ICUNormalizer2Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/946590/lucene/dev/trunk/modules/analysis/icu/src/java/org/apache/lucene/analysis/icu/ICUNormalizer2Filter.java
+END
+ICUTransformFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/946590/lucene/dev/trunk/modules/analysis/icu/src/java/org/apache/lucene/analysis/icu/ICUTransformFilter.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard
+END
+TestMultiFieldQPHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiFieldQPHelper.java
+END
+TestQPHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/990836/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQPHelper.java
+END
+TestMultiFieldQueryParserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiFieldQueryParserWrapper.java
+END
+TestQueryParserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/988206/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestQueryParserWrapper.java
+END
+TestMultiAnalyzerQPHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiAnalyzerQPHelper.java
+END
+TestMultiAnalyzerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/950008/lucene/dev/trunk/lucene/contrib/queryparser/src/test/org/apache/lucene/queryParser/standard/TestMultiAnalyzerWrapper.java
+END

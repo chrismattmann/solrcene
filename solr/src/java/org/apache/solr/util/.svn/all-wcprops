@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/992382/lucene/dev/trunk/solr/src/java/org/apache/solr/util
+END
+BCDUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/BCDUtils.java
+END
+SortedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/util/SortedIterator.java
+END
+SimplePostTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/java/org/apache/solr/util/SimplePostTool.java
+END
+ByteUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/solr/src/java/org/apache/solr/util/ByteUtils.java
+END
+NumberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/951104/lucene/dev/trunk/solr/src/java/org/apache/solr/util/NumberUtils.java
+END
+BoundedTreeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/src/java/org/apache/solr/util/BoundedTreeSet.java
+END
+DOMUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/DOMUtil.java
+END
+SimpleOrderedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/SimpleOrderedMap.java
+END
+OpenBitSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/OpenBitSet.java
+END
+DisMaxParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/DisMaxParams.java
+END
+NamedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/NamedList.java
+END
+IteratorChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/IteratorChain.java
+END
+TermFreqIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/util/TermFreqIterator.java
+END
+LongPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/992382/lucene/dev/trunk/solr/src/java/org/apache/solr/util/LongPriorityQueue.java
+END
+HighFrequencyDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/988120/lucene/dev/trunk/solr/src/java/org/apache/solr/util/HighFrequencyDictionary.java
+END
+BitUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/BitUtil.java
+END
+UpdateParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/UpdateParams.java
+END
+PrimUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/989410/lucene/dev/trunk/solr/src/java/org/apache/solr/util/PrimUtils.java
+END
+ContentStreamBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/ContentStreamBase.java
+END
+SuggestMissingFactories.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/SuggestMissingFactories.java
+END
+HighlightingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/HighlightingUtils.java
+END
+BitSetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/BitSetIterator.java
+END
+StrUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/StrUtils.java
+END
+TestHarness.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/TestHarness.java
+END
+SolrPluginUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/992128/lucene/dev/trunk/solr/src/java/org/apache/solr/util/SolrPluginUtils.java
+END
+RefCounted.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/RefCounted.java
+END
+ContentStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/ContentStream.java
+END
+XML.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/XML.java
+END
+DateMathParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/DateMathParser.java
+END
+VersionedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/VersionedFile.java
+END
+CommonParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/src/java/org/apache/solr/util/CommonParams.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/generators/plugin_migration
+END
+USAGE
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/generators/plugin_migration/USAGE
+END
+plugin_migration_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/engines/generators/plugin_migration/plugin_migration_generator.rb
+END

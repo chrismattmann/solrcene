@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds
+END
+DocMakerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/943288/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/DocMakerTest.java
+END
+TrecContentSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/983530/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/TrecContentSourceTest.java
+END
+LineDocSourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/943288/lucene/dev/trunk/lucene/contrib/benchmark/src/test/org/apache/lucene/benchmark/byTask/feeds/LineDocSourceTest.java
+END

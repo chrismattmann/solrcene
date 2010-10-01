@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/964054/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt
+END
+PortugueseLightStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/964054/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/PortugueseLightStemmer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/941308/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/package.html
+END
+PortugueseMinimalStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/PortugueseMinimalStemFilter.java
+END
+PortugueseAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/948225/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/PortugueseAnalyzer.java
+END
+PortugueseMinimalStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/PortugueseMinimalStemmer.java
+END
+PortugueseLightStemFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/964019/lucene/dev/trunk/modules/analysis/common/src/java/org/apache/lucene/analysis/pt/PortugueseLightStemFilter.java
+END

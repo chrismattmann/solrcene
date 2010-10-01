@@ -1,0 +1,21 @@
+K 15
+cvs2svn:cvs-rev
+V 4
+1.68
+K 13
+svn:mergeinfo
+V 359
+/lucene/dev/branches/branch_3x/lucene/build.xml:943137,949730,957490,960490,961612,979161,980654,982195,987811,988512
+/lucene/dev/branches/preflexfixes/lucene/build.xml:967125-979432
+/lucene/java/branches/flex_1458/build.xml:824912-931101
+/lucene/java/branches/lucene_2_9/build.xml:909334,948516
+/lucene/java/trunk/build.xml:924483-924731,924781,925176-925462
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/controllers
+END
+browse_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/controllers/browse_controller.rb
+END
+document_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/controllers/document_controller.rb
+END
+simile_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/client/ruby/flare/vendor/plugins/flare/app/controllers/simile_controller.rb
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/955257/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo
+END
+SearchFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/SearchFiles.java
+END
+IndexHTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/955257/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/IndexHTML.java
+END
+DeleteFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/DeleteFiles.java
+END
+FileDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/FileDocument.java
+END
+HTMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/HTMLDocument.java
+END
+IndexFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/948195/lucene/dev/trunk/lucene/contrib/demo/src/java/org/apache/lucene/demo/IndexFiles.java
+END
